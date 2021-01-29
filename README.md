@@ -1,4 +1,3 @@
-# Kim Semenza
 ### Guin Dev Produtions
 ####  Software Engineer / Full Stack Developer 
 
