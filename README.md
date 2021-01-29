@@ -1,8 +1,9 @@
 # Guin Dev Produtions
 ##  Software Engineer / Full Stack Developer 
 
-  #### Lambda School Bootcamp Endorsement Badge 
+  ### Lambda School Bootcamp Endorsement Badge 
   ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge")
+  #### [Badge Details](https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email)
 
 ##### Frontend Management
 > [![HTML](https://img.shields.io/badge/Markup%20Language-HTML-%23F06529)](https://reactjs.org/docs/create-a-new-react-app.html)
