@@ -1,6 +1,6 @@
 #  Software Engineer / Full Stack Developer 
 
-  ### Lambda School Bootcamp Endorsement Badge 
+  ### Lambda School Endorsement Badge (Silicon Valley, CA)
   ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge")
   #### [Badge Details](https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email)
 
