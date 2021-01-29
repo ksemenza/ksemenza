@@ -1,4 +1,4 @@
-#  Full Stack Developer / Software Engineer 
+#  Full-Stack Developer / Software Engineer 
 
   ### Lambda School Endorsement Badge ( Silicon Valley, CA )
   ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge")
