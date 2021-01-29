@@ -1,5 +1,5 @@
-### Guin Dev Produtions
-####  Software Engineer / Full Stack Developer 
+# Guin Dev Produtions
+##  Software Engineer / Full Stack Developer 
 
   #### Lambda School Bootcamp Endorsement Badge 
   ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
