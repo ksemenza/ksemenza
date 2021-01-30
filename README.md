@@ -124,7 +124,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&layout=compact" />
 </a> </p>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+[![Kim Semenza's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksemenza)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.ksemenza" alt="Visitors">                     
