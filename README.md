@@ -8,16 +8,18 @@
 </br>
  <a href="https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email"> <img src="https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png" /></a>
 </br>
-<a href="https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email"> Endorsement Details </a> </br> </br>
+<a href="https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email"> Endorsement Details </a> </b=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=great-gatsby" />
 </br>
 </br>
 <img align="center" width=120px src="https://github.com/ksemenza/ksemenza/blob/main/1519856349171.png"/>
-
+</br>
+</br>
 Lesley University 
 </br>
 ( Cambridge, MA )
 </br>
-Bachelor's of Arts in Psychology
+Bachelor's of Arts in Psychologyr> </br>
+</br>
 
 ---
 
