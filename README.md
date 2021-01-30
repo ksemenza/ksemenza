@@ -83,9 +83,6 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
-<a align="center" href="https://github.com/ksemenza">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&hide=java,starlark,objective-c,ruby,shell&layout=compact&langs_count=8" />
-</a> </p>
 
 
 ---
@@ -129,6 +126,11 @@
  [![code formatter](https://img.shields.io/badge/code%20formatter-eslint-%234B32C3)](https://eslint.org/docs/user-guide/getting-started)
 
 ---
+
+
+<p align="center"> <a align="center" href="https://github.com/ksemenza">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&hide=java,starlark,objective-c,ruby,shell&layout=compact&langs_count=8" />
+</a> </p>
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.ksemenza" alt="Visitors">                     
