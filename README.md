@@ -2,13 +2,13 @@
 
   ### Lambda School Endorsement Badge ( Silicon Valley, CA )
   
- |  [Badge Details](https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email)
-  | --------------------------------------------------------------------------------------------------- |
+ |  [Badge Details](https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email) | Github Stats
+  | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------|
   <a href="https://github.com/ksemenza"> |
- | ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge") |
+ | ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge") |   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
+</a> |
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
-</a><br/> <br/> <br/>  
+
 
  ##### Front-End
 > [![HTML](https://img.shields.io/badge/Markup%20Language-HTML-%23F06529)](https://reactjs.org/docs/create-a-new-react-app.html)
