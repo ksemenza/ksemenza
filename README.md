@@ -51,7 +51,9 @@
 <p align="center"><a align="center" href="https://github.com/ksemenza">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=material-palenight" />
 </a> </p>
-
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.ksemenza" alt="Visitors">                     
+</p>
 <!--
 **ksemenza/ksemenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
