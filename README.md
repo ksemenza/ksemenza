@@ -91,7 +91,7 @@
 ---
 
 
-### Full-Stack Project Tech Stack 
+### Dynamic Full-Stack Project Tech Stack 
 
 > #### Front-End
  [![HTML](https://img.shields.io/badge/Markup%20Language-HTML-%23F06529)](https://reactjs.org/docs/create-a-new-react-app.html)
