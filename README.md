@@ -128,11 +128,6 @@
 
 ---
 
-
-<p align="center"> <a align="center" href="https://github.com/ksemenza">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&hide=java,starlark,objective-c,ruby,shell&layout=compact&langs_count=8" />
-</a> </p>
-
 <p align=center>                           
   <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.ksemenza" alt="Visitors">                     
 <!--
