@@ -10,8 +10,12 @@
   
 </br>
  <a href="https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email"> <img align="center" alt="lambda endorment badge" width="150px" src="https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png" /> </a>
+ 
+</br>
+</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=great-gatsby" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&hide=java,starlark,objective-c,ruby,shell&layout=compact&langs_count=8" />
 
 ---
   
