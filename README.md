@@ -1,4 +1,4 @@
-#  Full-Stack Developer / Software Engineer 
+#  Full-Stack Developer
 
 <p align="center">
   <img src="https://github.com/ksemenza/ksemenza/blob/main/github-typing-message.gif" /> </br>
