@@ -84,7 +84,7 @@
 </code>](https://www.kernel.org/)
 
 <a align="center" href="https://github.com/ksemenza">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=great-gatsby&hide=java,starlark,objective-c,ruby,shell&layout=compact&langs_count=8" />
 </a> </p>
 
 
