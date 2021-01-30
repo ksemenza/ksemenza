@@ -1,8 +1,14 @@
 #  Full-Stack Developer / Software Engineer 
 
   ### Lambda School Endorsement Badge ( Silicon Valley, CA )
-  ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge")
-  #### [Badge Details](https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email)
+  
+ |  [Badge Details](https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email)
+  | --------------------------------------------------------------------------------------------------- |
+  <a href="https://github.com/ksemenza"> |
+ | ![alt text](https://github.com/ksemenza/ksemenza/blob/main/lambda-endorsement-badge.png "Lambda School Endorsement Badge") |
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
+</a><br/> <br/> <br/>  
 
  ##### Front-End
 > [![HTML](https://img.shields.io/badge/Markup%20Language-HTML-%23F06529)](https://reactjs.org/docs/create-a-new-react-app.html)
@@ -35,19 +41,10 @@
 ##### Other Technologies 
 > [![run cmd: make files](https://img.shields.io/badge/run%20cmd-makes%20files-%23FF7100)](https://www.tutorialspoint.com/unix_commands/make.htm)
 > [![windows termial extension: wsl](https://img.shields.io/badge/windows%20os%20terminal%20extension-WSL-%23FCC624)](https://ubuntu.com/wsl)
-> [![build compiler: prismatopia](https://img.shields.io/badge/build%20compiler-prismatopia-ff69b4)](https://github.com/Lambda-School-Labs/prismatopia)<br
+> [![build compiler: prismatopia](https://img.shields.io/badge/build%20compiler-prismatopia-ff69b4)](https://github.com/Lambda-School-Labs/prismatopia)
 > [![BE container: docker](https://img.shields.io/badge/BE%20container-docker-%232496ED)](https://docs.docker.com/)
 > [![code formatter](https://img.shields.io/badge/code%20formatter-eslint-%234B32C3)](https://eslint.org/docs/user-guide/getting-started)
 
-<br>
-
-  
-  <a href="https://github.com/ksemenza">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
-</a>
-<a href="https://github.com/ksemenza">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksemenza&theme=material-palenight" />
-</a>
 
 
 <!--
