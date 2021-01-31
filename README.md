@@ -13,12 +13,14 @@
 </br>
 Lesley University 
 </br>
+( Cambridge, MA )
+</br>
+</br>
 <img align="center" width=120px src="https://github.com/ksemenza/ksemenza/blob/main/1519856349171.png"/>
 </br>
 </br>
-( Cambridge, MA )
+Bachelor's of Arts in Psychology
 </br>
-Bachelor's of Arts in Psychologyr> </br>
 </br>
 
 ---
