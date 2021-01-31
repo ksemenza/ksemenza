@@ -11,6 +11,9 @@
 <a href="https://www.youracclaim.com/badges/0e289cd4-b89f-4e1f-9a59-bc78cf12ea4d/email"> Endorsement Details </a> </b=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=great-gatsby" />
 </br>
 </br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksemenza&show_icons=true&count_private=true&include_all_commits=true&theme=great-gatsby" />
+</br>
+</br>
 Lesley University 
 </br>
 ( Cambridge, MA )
