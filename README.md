@@ -1,7 +1,7 @@
 #  Full-Stack Developer
 
 <p align="center">
-  <img src="https://github.com/ksemenza/ksemenza/blob/main/github-typing-message.gif" /> </br>
+  </br>
 
 <p align="center">  
   <b>Lambda School Endorsement Badge </br> ( Silicon Valley, CA )<b/>
